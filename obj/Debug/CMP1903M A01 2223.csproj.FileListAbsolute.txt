@@ -1,0 +1,8 @@
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe.config
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.pdb
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.exe
+C:\Users\BWA14\OneDrive\Documents\Univeristy Two\OOP\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.pdb
